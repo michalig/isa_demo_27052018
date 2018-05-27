@@ -1,3 +1,1 @@
-Hello world!
-
-To sprobujemy wycofac.
+Hello world! 
